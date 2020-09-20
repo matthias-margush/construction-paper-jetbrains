@@ -1,0 +1,67 @@
+<style>
+.cards1 {
+    margin-left: 100px;
+    width: 100%;
+}
+
+.cards2 {
+    margin-left: 100px;
+    width: 100%;
+}
+
+.card {
+    margin-left: -10px;
+    float: left;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    box-shadow: 0 0 75px black;
+}
+.cards1 > div:nth-child(1) {transform: rotate(10deg);}
+.cards1 > div:nth-child(2) {transform: rotate(-10deg);}
+.cards1 > div:nth-child(3) {transform: rotate(20deg);}
+.cards1 > div:nth-child(4) {transform: rotate(-20deg);}
+.cards1 > div:nth-child(5) {transform: rotate(-25deg);}
+
+.cards2 > div:nth-child(1) {transform: rotate(-10deg);}
+.cards2 > div:nth-child(2) {transform: rotate(10deg);}
+.cards2 > div:nth-child(3) {transform: rotate(-20deg);}
+.cards2 > div:nth-child(4) {transform: rotate(20deg);}
+.cards2 > div:nth-child(5) {transform: rotate(25deg);}
+
+.bar-top {
+    clear: left;
+    padding: 0;
+    margin: 20px;
+    border-radius: 0 0 225px 0/0 0 1px 0;
+    border-top: 5px solid #777;
+}
+
+.bar-bottom {
+    clear: left;
+    padding: 30px;
+    margin: 20px;
+    border-radius: 0 0 225px 0/0 0 1px 0;
+    border-bottom: 1px solid #777;
+}
+</style>
+
+<div class="bar-top"></div>
+
+<div class="cards1">
+    <div class="card" style="background-color: #c6783e; clear: left;"></div>
+    <div class="card" style="background-color: #775555;"></div>
+    <div class="card" style="background-color: #557755;"></div>
+    <div class="card" style="background-color: #555577;"></div>
+    <div class="card" style="background-color: #775577;"></div>
+</div>
+<div class="cards2">
+    <div class="card" style="background-color: #557777; clear: left;"></div>
+    <div class="card" style="background-color: #ddd9cc;"></div>
+    <div class="card" style="background-color: #939393;"></div>
+    <div class="card" style="background-color: #6e6553;"></div>
+    <div class="card" style="background-color: #BBBB69;"></div>
+</div>
+
+<div></div>
+<div class="bar-bottom"></div>
