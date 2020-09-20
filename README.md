@@ -12,8 +12,8 @@ A construction paper inspired theme for Jetbrains IDEs.
 
 ## Fonts
 
-* Fixed Width: [Average Mono](https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/markdown.css)
-* Variable Width: [Open Sans Condensed](https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/markdown.css)
+* Fixed Width: [Average Mono](https://fontlibrary.org/en/font/average-mono)
+* Variable Width: [Open Sans Condensed](https://fonts.google.com/specimen/Open+Sans+Condensed?query=open+sans)
 
 ## Markdown CSS
 
