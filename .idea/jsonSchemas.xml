@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="Open Sans Condensed">
+          <value>
+            <SchemaInfo>
+              <option name="name" value="Open Sans Condensed" />
+              <option name="relativePathToSchema" value="http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700" />
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
