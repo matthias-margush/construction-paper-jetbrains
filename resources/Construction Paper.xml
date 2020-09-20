@@ -1,10 +1,9 @@
-<scheme name="Paper" version="142" parent_scheme="Default">
+<scheme name="Construction Paper" version="142" parent_scheme="Default">
   <metaInfo>
     <property name="created">2020-09-19T10:59:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.2.0.0</property>
     <property name="modified">2020-09-19T11:00:03</property>
-    <property name="originalScheme">Paper</property>
   </metaInfo>
   <colors>
     <option name="ADDED_LINES_COLOR" value="e5f5de" />
@@ -496,6 +495,9 @@
         <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
