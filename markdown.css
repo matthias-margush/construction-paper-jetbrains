@@ -44,7 +44,7 @@ body {
     padding-top: 0 !important;
 }
 
-p {
+p ul ol {
     font-size: 0.8rem;
     margin-bottom: 1.3rem;
 }
@@ -161,46 +161,4 @@ tbody tr:nth-child(2n) td {
 tbody tr:nth-child(2n) td > code {
     background-color: #efefef;
 }
-/*
 
-Original style from softwaremaniacs.org (c) Ivan Sagalaev <Maniac@SoftwareManiacs.Org>
-
-*/
-
-.hljs {
-    display: block !important;
-    overflow-x: auto !important;
-    color: black !important;
-}
-
-.hljs-string,
-.hljs-variable,
-.hljs-template-variable,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-section,
-.hljs-addition,
-.hljs-attribute,
-.hljs-link {
-    color: #888 !important;
-}
-
-.hljs-comment,
-.hljs-quote,
-.hljs-meta,
-.hljs-deletion {
-    color: #ccc !important;
-}
-
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-section,
-.hljs-name,
-.hljs-type,
-.hljs-strong {
-    font-weight: bold;
-}
-
-.hljs-emphasis {
-    font-style: italic;
-}
