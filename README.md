@@ -1,6 +1,6 @@
 # Construction Paper
 
-A construction-paper-inspired theme for Jetbrains IDEs.
+A construction paper inspired theme for Jetbrains IDEs.
 
 ## Palette
 
