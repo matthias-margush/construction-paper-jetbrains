@@ -34,7 +34,8 @@ a:active {
 body {
     color: #454545;
     background-color: #f9f9f9;
-    font-family: AverageMonoRegular, Menlo, Monaco, "Courier New", monospace;
+    font-family: "Open Sans Condensed Light", sans-serif;
+    font-size: 14px;
     font-weight: normal;
     font-style: normal;
     margin: 0 auto;
@@ -161,4 +162,3 @@ tbody tr:nth-child(2n) td {
 tbody tr:nth-child(2n) td > code {
     background-color: #efefef;
 }
-
