@@ -212,7 +212,7 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="445588" />
+        <option name="FOREGROUND" value="445577" />
       </value>
     </option>
     <option name="CSS.IMPORTANT">
@@ -290,14 +290,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="445577" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="666455" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="445577" />
       </value>
     </option>
     <option name="DEFAULT_COMMA">
@@ -340,13 +338,12 @@
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="666455" />
-        <option name="FONT_TYPE" value="1" />
+        <option name="FOREGROUND" value="445577" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="445577" />
       </value>
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
@@ -363,7 +360,7 @@
     <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="3c3f41" />
+        <option name="FOREGROUND" value="445577" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -442,7 +439,7 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="884444" />
+        <option name="EFFECT_COLOR" value="775555" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -491,8 +488,8 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="EFFECT_COLOR" value="884444" />
-        <option name="ERROR_STRIPE_COLOR" value="884444" />
+        <option name="EFFECT_COLOR" value="557755" />
+        <option name="ERROR_STRIPE_COLOR" value="775555" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -525,8 +522,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aaaa00" />
-        <option name="ERROR_STRIPE_COLOR" value="aaaa00" />
+        <option name="EFFECT_COLOR" value="cccccc" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -788,7 +785,7 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="884444" />
+        <option name="EFFECT_COLOR" value="775555" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -800,7 +797,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="555555" />
+        <option name="FOREGROUND" value="37474f" />
       </value>
     </option>
     <option name="PHP_HEREDOC_CONTENT">
@@ -834,7 +831,7 @@
     <option name="RUNTIME_ERROR">
       <value>
         <option name="EFFECT_COLOR" value="884444" />
-        <option name="ERROR_STRIPE_COLOR" value="884444" />
+        <option name="ERROR_STRIPE_COLOR" value="775555" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -869,7 +866,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffff00" />
+        <option name="BACKGROUND" value="ffffcc" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
@@ -880,14 +877,14 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="EFFECT_COLOR" value="448844" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="557755" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="aa7700" />
-        <option name="ERROR_STRIPE_COLOR" value="aa7700" />
+        <option name="EFFECT_COLOR" value="f6ebbc" />
+        <option name="ERROR_STRIPE_COLOR" value="888840" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
@@ -898,7 +895,7 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="884444" />
+        <option name="FOREGROUND" value="775555" />
       </value>
     </option>
     <option name="XPATH.FUNCTION">
