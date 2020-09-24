@@ -1,17 +1,20 @@
 <idea-plugin>
   <id>com.margush.ConstructionPaper</id>
   <name>Construction Paper</name>
-  <version>1.3</version>
+  <version>1.4</version>
   <vendor email="matthias.margush@me.com" url="http://github.com/matthias-margush/construction-paper-jetbrains">Matthias Margush</vendor>
 
   <description><![CDATA[
   A construction-paper-inspired theme for Jetbrains IDEs.
-  <br/>
 
-  <h2>Palette</h2>
+  <br/>
+  <br/>
+  <h1>Palette</h1>
   <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/swatch.png" border="0" width="700" alt="Settings screenshot">
 
-  <h2>Screenshot</h2>
+  <br/>
+  <br/>
+  <h1>Screenshot</h1>
   <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/hello.png" border="0" width="700" alt="Main window screenshot">
     ]]></description>
 
