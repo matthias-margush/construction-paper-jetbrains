@@ -338,7 +338,7 @@
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="445577" />
+        <option name="FOREGROUND" value="775577" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
@@ -386,6 +386,11 @@
       <value>
         <option name="FOREGROUND" value="939393" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="557777" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -501,12 +506,12 @@
     </option>
     <option name="GO_STRUCT_EXPORTED_MEMBER">
       <value>
-        <option name="FOREGROUND" value="666455" />
+        <option name="FOREGROUND" value="775577" />
       </value>
     </option>
     <option name="GO_STRUCT_LOCAL_MEMBER">
       <value>
-        <option name="FOREGROUND" value="666455" />
+        <option name="FOREGROUND" value="775577" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -523,7 +528,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="aaaa00" />
+        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
