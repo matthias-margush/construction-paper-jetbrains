@@ -527,8 +527,8 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="cccccc" />
-        <option name="ERROR_STRIPE_COLOR" value="ffffcc" />
+        <option name="EFFECT_COLOR" value="cccc55" />
+        <option name="ERROR_STRIPE_COLOR" value="cccc55" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -888,7 +888,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="f6ebbc" />
+        <option name="EFFECT_COLOR" value="888840" />
         <option name="ERROR_STRIPE_COLOR" value="888840" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
