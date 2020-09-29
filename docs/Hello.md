@@ -1,9 +1,3 @@
-## Clojure
-``` clojure
-(defn -main []
- (println "Hello, world!"))
-```
-
 ## Rust
 
 ``` rust
@@ -16,6 +10,12 @@ fn main() {
 
 ``` haskell
 putStrLn "Hello, world!"
+```
+
+## Python
+
+``` python
+print("Hello, world!")
 ```
 
 ## Go
@@ -64,8 +64,9 @@ main()
 }
 ```
 
-## Python
-
-``` python
-print("Hello, world!")
+## Clojure
+``` clojure
+(defn -main []
+ (println "Hello, world!"))
 ```
+
