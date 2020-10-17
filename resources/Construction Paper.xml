@@ -26,7 +26,7 @@
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="f7f7d5" />
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="557755" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
+    <option name="FILESTATUS_MODIFIED" value="629755" />
     <option name="FILESTATUS_NOT_CHANGED" value="868686" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="868686" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="868686" />
@@ -786,7 +786,6 @@
     <option name="MARKDOWN_TEXT">
       <value>
         <option name="FOREGROUND" value="3c3f41" />
-        <option name="BACKGROUND" value="9f9f9" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
