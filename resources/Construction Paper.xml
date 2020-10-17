@@ -10,7 +10,7 @@
     <option name="BORDER_LINES_COLOR" value="666666" />
     <option name="CARET_COLOR" value="3c3f41" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="f9f9f9" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="e7e7e7" />
     <option name="DELETED_LINES_COLOR" value="ffe3ca" />
     <option name="DOC_COMMENT_LINK" value="555577" />
     <option name="FILESTATUS_ADDED" value="629755" />
@@ -27,8 +27,9 @@
     <option name="FILESTATUS_IDEA_SVN_REPLACED" value="557755" />
     <option name="FILESTATUS_MERGED" value="9876aa" />
     <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED" value="868686" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="868686" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="868686" />
     <option name="FILESTATUS_OBSOLETE" value="ffffff" />
     <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="FILESTATUS_SWITCHED" value="ffffff" />
@@ -37,13 +38,13 @@
     <option name="FILESTATUS_changelistConflict" value="f7d5d5" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="888844" />
-    <option name="GUTTER_BACKGROUND" value="f9f9f9" />
+    <option name="GUTTER_BACKGROUND" value="e8e8e8" />
     <option name="HTML_TAG_TREE_LEVEL0" value="86b3" />
     <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="e4eeff" />
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="MODIFIED_LINES_COLOR" value="d7e0f1" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="SELECTION_BACKGROUND" value="efebde" />
+    <option name="SELECTION_BACKGROUND" value="ddd9cc" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="3c3f41" />
     <option name="ScrollBar.Mac.thumbColor" value="3c3f41" />
@@ -100,7 +101,7 @@
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="f9f9f9" />
+        <option name="FOREGROUND" value="e7e7e7" />
       </value>
     </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
@@ -785,7 +786,7 @@
     <option name="MARKDOWN_TEXT">
       <value>
         <option name="FOREGROUND" value="3c3f41" />
-        <option name="BACKGROUND" value="f9f9f9" />
+        <option name="BACKGROUND" value="9f9f9" />
       </value>
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
@@ -866,7 +867,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="6e6553" />
-        <option name="BACKGROUND" value="f9f9f9" />
+        <option name="BACKGROUND" value="e8e8e8" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">

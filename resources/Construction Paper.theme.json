@@ -37,10 +37,10 @@
       "selectionBackground": "#3B4754"
     },
     "EditorTabs": {
-      "underlinedTabBackground": "#F9F9F9",
-      "underlineColor": "#F9F9F9",
-      "inactiveUnderlineColor": "#F9F9F9",
-      "hoverBackground": "#f0f0f0",
+      "underlinedTabBackground": "#E8E8E8",
+      "underlineColor": "#E8E8E8",
+      "inactiveUnderlineColor": "#E8E8E8",
+      "hoverBackground": "#E0E0E0",
       "borderColor": "#3C3F41",
       "underlineHeight": 1
     }

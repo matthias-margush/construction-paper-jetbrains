@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.margush.ConstructionPaper</id>
   <name>Construction Paper</name>
-  <version>1.9</version>
+  <version>1.10</version>
   <vendor email="matthias.margush@me.com" url="http://github.com/matthias-margush/construction-paper-jetbrains">Matthias Margush</vendor>
 
   <description><![CDATA[
@@ -17,6 +17,14 @@
   <h1>Screenshot</h1>
   <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/hello.png" border="0" width="1600" alt="Screenshot">
     ]]></description>
+
+  <change-notes><![CDATA[
+  <ul>
+    <li>Darker editor background</li>
+    <li>Improve unchanged file color contrast</li>
+  </ul>
+  ]]>
+  </change-notes>
 
   <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
