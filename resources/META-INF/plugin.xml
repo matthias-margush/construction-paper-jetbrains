@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.margush.ConstructionPaper</id>
   <name>Construction Paper</name>
-  <version>1.11</version>
+  <version>1.12</version>
   <vendor email="matthias.margush@me.com" url="http://github.com/matthias-margush/construction-paper-jetbrains">Matthias Margush</vendor>
 
   <description><![CDATA[
@@ -10,18 +10,25 @@
   <br/>
   <br/>
   <h1>Palette</h1>
-  <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/swatch.png" border="0" width="1208" alt="Color Palette">
+  <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/swatch.png" border="0" width="402" height="218" alt="Color Palette">
 
   <br/>
   <br/>
   <h1>Screenshot</h1>
-  <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/hello.png" border="0" width="1714" alt="Screenshot">
+  <img src="https://raw.githubusercontent.com/matthias-margush/construction-paper-jetbrains/master/docs/hello.png" border="0" width="528" height="725" alt="Screenshot">
     ]]></description>
 
   <change-notes><![CDATA[
   <ul>
-    <li>Darker editor background</li>
-    <li>Improve unchanged file color contrast</li>
+    <li>1.12</li>
+    <ul>
+      <li>Improve legibility in rename dialogs</li>
+    </ul>
+    <li>1.11</li>
+    <ul>
+      <li>Darker editor background</li>
+      <li>Improve unchanged file color contrast</li>
+    </ul>
   </ul>
   ]]>
   </change-notes>

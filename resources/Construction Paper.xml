@@ -8,7 +8,7 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="e5f5de" />
     <option name="BORDER_LINES_COLOR" value="666666" />
-    <option name="CARET_COLOR" value="3c3f41" />
+    <option name="CARET_COLOR" value="908875" />
     <option name="CARET_ROW_COLOR" value="" />
     <option name="CONSOLE_BACKGROUND_KEY" value="e7e7e7" />
     <option name="DELETED_LINES_COLOR" value="ffe3ca" />
@@ -469,8 +469,8 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="884444" />
-        <option name="ERROR_STRIPE_COLOR" value="775555" />
+        <option name="EFFECT_COLOR" value="8B4747" />
+        <option name="ERROR_STRIPE_COLOR" value="8B4747" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -865,7 +865,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="6e6553" />
+        <option name="FOREGROUND" value="908875" />
         <option name="BACKGROUND" value="e8e8e8" />
       </value>
     </option>
@@ -888,8 +888,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="888840" />
-        <option name="ERROR_STRIPE_COLOR" value="888840" />
+        <option name="EFFECT_COLOR" value="C6C200" />
+        <option name="ERROR_STRIPE_COLOR" value="C6C200" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
