@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>com.margush.ConstructionPaper</id>
   <name>Construction Paper</name>
-  <version>1.12</version>
+  <version>1.13</version>
   <vendor email="matthias.margush@me.com" url="http://github.com/matthias-margush/construction-paper-jetbrains">Matthias Margush</vendor>
 
   <description><![CDATA[
@@ -20,6 +20,11 @@
 
   <change-notes><![CDATA[
   <ul>
+    <li>1.13</li>
+    <ul>
+      <li>Improve legibility in popup docs</li>
+      <li>Brighten intention bulb</li>
+    </ul>
     <li>1.12</li>
     <ul>
       <li>Improve legibility in rename dialogs</li>
